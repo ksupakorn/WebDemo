@@ -1,6 +1,3 @@
-# WebDemo
-WebDemo
-
 ====================================================
 Web testing with Robot Framework and SeleniumLibrary
 ====================================================
